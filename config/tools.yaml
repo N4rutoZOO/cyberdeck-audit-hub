@@ -1,0 +1,19 @@
+tools:
+  - name: Kismet
+    url: https://github.com/kismetwireless/kismet
+    mode: passive
+  - name: Wireshark
+    url: https://github.com/wireshark/wireshark
+    mode: passive
+  - name: Aircrack-ng
+    url: https://github.com/aircrack-ng/aircrack-ng
+    mode: authorized-audit
+  - name: Bettercap
+    url: https://github.com/bettercap/bettercap
+    mode: authorized-audit
+  - name: Wifite2
+    url: https://github.com/derv82/wifite2
+    mode: authorized-audit
+  - name: ESP32 Marauder
+    url: https://github.com/justcallmekoko/ESP32Marauder
+    mode: lab-only
